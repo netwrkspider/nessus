@@ -61,7 +61,7 @@ done
 
 /etc/init.d/nessusd stop 
 
-echo -e "---------------------\n\n\n\033[1;32m  「 破解成功，重启中。。。\n     Crack succeed, restarting...」\033[0m\n\n
+echo -e "---------------------\n\n\n\033[1;32m  「 Nessus \n  Crack succeed, restarting...」\033[0m\n\n
 \033[1;32m  「 Cracked by netwrkspider \n   && Thanks Open Source Enthusiast 」\033[0m  \n---------------------"
 
 echo -e ' 
